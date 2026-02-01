@@ -9,7 +9,7 @@ void classifynum(int limit){
 		cout<<i;
 		
 		if(i%3==0 && i%5==0){
-		    cout<<" is a factor of of 3&5 = "<<"\n";}
+		    cout<<" is a factor of of 3&5 "<<"\n";}
 		else if(i%3==0){
 		    cout<<" is a factor of 3 "<<"\n";}
 		else if(i%5==0){

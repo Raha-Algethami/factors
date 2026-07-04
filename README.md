@@ -17,6 +17,6 @@ factorclassifier/
 ├── classify.h
 └── classify.cpp
 ```
-##author
+## Author
 Raha Algethami
 Saudi Arabia

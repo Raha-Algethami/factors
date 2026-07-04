@@ -10,9 +10,13 @@ and checks if each number is:
 
 The program is done using multiple files to demonstrate C++ code structure.
 
-
+```text
 ## Files Structure
 factorclassifier/
 ├── main.cpp
 ├── classify.h
 └── classify.cpp
+```
+##author
+Raha Algethami
+Saudi Arabia

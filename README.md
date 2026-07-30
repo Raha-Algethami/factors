@@ -10,7 +10,7 @@ and checks if each number is:
 
 The program is done using multiple files to demonstrate C++ code structure.
 
-##Files
+## Files
 ```text
 factorclassifier/
 ├── main.cpp

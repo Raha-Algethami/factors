@@ -17,6 +17,11 @@ factorclassifier/
 ├── classify.h
 └── classify.cpp
 ```
-## Author
-Raha Algethami
+##  Author
+
+**Raha Algethami**
+
+Computer Engineering Student  
+Taif University  
+Saudi Arabia
 
